@@ -249,7 +249,7 @@ Checkout this project as a submodule under roles:
 
 ```
 $  cd roles
-$  git submodule add https://github.com/comperiosearch/ansible-elasticsearch.git ./elasticsearch
+$  git submodule add https://github.com/makingwaves/ansible-elasticsearch.git ./elasticsearch
 $  git submodule update --init
 $  git commit ./submodule -m "Added submodule as ./subm"
 ```
